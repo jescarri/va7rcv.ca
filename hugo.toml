@@ -26,7 +26,7 @@ description = "VA7RCV Blog."
 # unicode/emoji logo:
 #logo = "🍚"
 # or use an image:
-logo_image = "images/futurama-bender.svg"
+logo_image = "bender.png"
 
 # Sidebar: social links
 # Available icon sets:
