@@ -1,4 +1,4 @@
-baseURL = 'https://www.va7rcv.ca/'
+baseURL = "https://www.va7rcv.ca/"
 languageCode = 'en-us'
 title = 'VA7RCV Blog'
 theme = 'risotto'
@@ -47,12 +47,12 @@ url = "mailto:contact@idenititylabs.mx"
   [[menu.main]]
     identifier = "posts"
     name = "Posts"
-    url = "/posts/"
+    url = "posts/"
     weight = 1
   [[menu.main]]
     identifier = "about"
     name = "About"
-    url = "/about/"
+    url = "about/"
     weight =2
 
 [taxonomies]
