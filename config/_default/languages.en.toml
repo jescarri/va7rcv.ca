@@ -1,0 +1,30 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "VA7RCV Blog"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  description = "VA7RVC Blog"
+  copyright = "Jesus Carrillo - VA7RCV"
+
+[params.author]
+  name = "Jesus Carrillo"
+  email = "contact@identitylabs.mx"
+  image = "img/jescarri.jpeg"
+  imageQuality = 96
+  headline = "VA7RCV - XE1AZJ"
+  bio = "I Like tinkering with Kubernetes, Electronics, RF, and IoT"
+  links = [
+    { email = "mailto:jesuscarrillo8@gmail.com" },
+    { github = "https://github.com/jescarri" },
+    { gitlab = "https://gitlab.com/jesuscarrillo8" },
+    { linkedin = "https://linkedin.com/in/jescarri" },
+    { link = "https://blog.identitylabs.mx" },
+  ]
